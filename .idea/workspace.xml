@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13f9cc46-b8f1-470b-934a-3d5b3ddf52dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streaming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/Calculadora/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/Calculadora/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/Calculadora/FiltroRecomendacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/Episodios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/ErroDeConversaoDeAnoException_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/Titulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/modelos/TituloOMBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/principal/PrincipaComListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streaming/principal/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SJannmRlmq2mOMBN3kp7czYwMo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LuksS/OneDrive/Área de Trabalho/gson-2.10.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Streaming.modelos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13f9cc46-b8f1-470b-934a-3d5b3ddf52dd" name="Changes" comment="" />
+      <created>1688867314355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688867314355</updated>
+    </task>
+    <servers />
+  </component>
+</project>
